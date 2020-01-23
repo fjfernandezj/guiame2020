@@ -1,0 +1,4 @@
+"0","select(data, -Region)"
+"2","Error in UseMethod(""select_"") : 
+  no applicable method for 'select_' applied to an object of class ""function""
+"

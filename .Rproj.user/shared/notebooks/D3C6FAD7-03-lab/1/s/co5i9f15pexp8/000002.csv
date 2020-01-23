@@ -1,0 +1,3 @@
+"0","filter(data, rendimiento > 7000, Variedad == ""V1"")"
+"2","Error in match.arg(method) : objeto 'Variedad' no encontrado
+"

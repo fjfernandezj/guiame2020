@@ -1,0 +1,4 @@
+"0","slice(data, c(3,10,25,100))"
+"2","Error in slice(data, c(3, 10, 25, 100)) : 
+  no se pudo encontrar la función ""slice""
+"
