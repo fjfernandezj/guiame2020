@@ -7,6 +7,8 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
+github-repo: fjfernandezj/guiame2020
+url: 'https://github.com/fjfernandezj/guiame2020'
 description: "Guía para el desarrollo de Laboratorio de la asignatura Métodos Estadísticos"
 ---
 
@@ -28,3 +30,6 @@ knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
 ```
+
+
+

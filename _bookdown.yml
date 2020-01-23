@@ -16,4 +16,6 @@ language:
     remark: 'Nota: '
     solution: 'SoluciÃ³n. '
   ui:
-    chapter_name: "Unidad "
+    chapter_name: "Capítulo "
+repo: https://github.com/fjfernandezj/guiame2020
+output_dir: docs
